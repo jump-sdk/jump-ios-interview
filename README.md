@@ -36,3 +36,7 @@ The app should:
 3. Fix bugs and demo :) 
 
 Good luck!
+
+https://github.com/user-attachments/assets/259b6384-31ec-4fec-a62c-a6482922c126
+
+
